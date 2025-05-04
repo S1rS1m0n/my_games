@@ -2,14 +2,15 @@
 A simple version of the classic Tic-Tac-Toe game written in Python.
 
 # Features
-- Implemented using Python's turtle library
+- Implemented using turtle module
 - 2-player mode (turn-based)
 
 # How to play
 - The game board is a 3x3 grid
 - Click inside a cell to make a move
 - The game alternates between Player 1 (blue circles) and Player 2 (red crosses)
-- Once a player wins or the board is full (draw), the game ends.
+- Once a player wins or the board is full (draw), the game ends
+- Press the space bar to restart the game.
 
 # Requirements
 - Python 3.x
